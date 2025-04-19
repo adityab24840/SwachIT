@@ -65,5 +65,5 @@ st.button("Join the Pilot", type="primary")
 
 # Footer
 st.markdown("<hr>", unsafe_allow_html=True)
-st.caption("© 2025 SwachIT – Built at Hackathon | Team EcoTrackers")
+st.caption("© 2025 SwachIT – Built at Hackathon | Team HackStreet Boys")
 
